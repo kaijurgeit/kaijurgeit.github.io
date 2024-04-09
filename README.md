@@ -9,7 +9,10 @@ I am a Gameplay Programmer with a background in Mediatechnology (M.Sc. TU Ilmena
 
 ## Work Experience
 
-**Unreal Engine Programmer and Project Manager, Indie Project „Eira“ (10/2022 - Present)**
+**Unreal Engine Educational Content Creator on YouTube „Dev Kai“ (01/2024 - Present)**
+- https://www.youtube.com/@DevKaiUnreal
+
+**Unreal Engine Programmer and Project Manager, Indie Project „Eira“ (10/2022 - 12/2023)**
 - Managing a team of 5 game creators developing a third-person RPG with Unreal Engine 5.
 - Programming with C++ and Blueprints employing the Gameplay Ability System.
 - Creating Inventory Systems, Behavior Trees, Animation Blueprints, Particle Effects, Characters and more with Unreal Engine and Blender.
