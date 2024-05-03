@@ -9,7 +9,7 @@ I am a Game Developer with a background in Mediatechnology (M.Sc. TU Ilmenau) an
 ## Experience
 
 **Unreal Engine Developer (10/2022 - Present)**
-- Publishing Unreal Engine 5 Tutorials on YouTube
+- Publishing Unreal Engine 5 Tutorials on YouTube.
 - Managing a team of 5 game creators developing a third-person RPG with Unreal Engine 5.
 - Creating Inventory, Crafting and Combat Systems, Behavior and State Trees, Multiplayer, Animation Blueprints and Montages, Particle Effects, Characters and employing the Gameplay Ability System.
 
