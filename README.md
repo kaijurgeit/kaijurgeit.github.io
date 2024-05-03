@@ -1,4 +1,4 @@
-# Gameplay Programmer
+# Game Developer
 I am a Game Developer with a background in Mediatechnology (M.Sc. TU Ilmenau) and with experience in Unreal Engine 5, C++, Python, C#, Three.js and Blender. I am currently publishing videos on my YouTube Channel: [youtube.com/@DevKaiUnreal](https://www.youtube.com/@DevKaiUnreal).
 
 ## Education
