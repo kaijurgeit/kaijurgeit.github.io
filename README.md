@@ -1,8 +1,10 @@
 # Game Programmer | Unreal Engine
-I am a Game Programmer, YouTuber, and freelance Unreal Engine Lecturer with a Master’s degree in Media Technology (M.Sc., TU Ilmenau). With hands-on experience in Unreal Engine, C++, C#, and Python, I create intermediate-level Unreal Engine tutorials, which I share on my YouTube channel: [youtube.com/@DevKaiUnreal](https://www.youtube.com/@DevKaiUnreal). 
+I am a Game Programmer, YouTuber, and freelance Unreal Engine Lecturer with a Master’s degree in Media Technology (M.Sc. TU Ilmenau). With hands-on experience in Unreal Engine, C++, C#, and Python, I create intermediate-level Unreal Engine tutorials, which I share on my YouTube channel: [youtube.com/@DevKaiUnreal](https://www.youtube.com/@DevKaiUnreal). 
 
 
-You can find my latest game on [itch.io/fleshedout](https://agent49.itch.io/fleshedout), created with an incredible team during a 72-hour Game Jam. It’s a top-down 2D adventure developed in Unreal Engine. Our team had four members, and I was responsible for implementing the game in Unreal.
+You can find my latest game on [itch.io/fleshedout](https://agent49.itch.io/fleshedout), created with an incredible team during a 72-hour Game Jam. It’s a top-down 2D adventure developed in Unreal Engine. Our team had four members, and I was responsible for implementing the game in Unreal Engine.
+
+I'm currently developing a 3D portfolio website using Three.js and Vue. You can check out my progress here: [kaijurgeit.github.io/3d-portfolio](https://kaijurgeit.github.io/3d-portfolio).
 
 ## Education
 
